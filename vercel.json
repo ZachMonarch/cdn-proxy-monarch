@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/storage/:path*",
+      "destination": "https://fdkovsqvyonjpxchgsuv.supabase.co/storage/:path*"
+    }
+  ]
+}
